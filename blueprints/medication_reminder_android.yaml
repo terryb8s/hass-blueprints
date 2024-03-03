@@ -125,6 +125,7 @@ action:
           title: !input notification_title
           message: !input notification_message
           data:
+            clickAction: noAction #No Action on tap, prevent accidental dismiss
             actions:
               - title: !input notification_action_taken
                 action: "taken"

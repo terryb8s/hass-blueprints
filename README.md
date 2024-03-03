@@ -1,7 +1,8 @@
 # Home-Assistant blueprints
 
-My personnal collection of Home-Assistant's blueprints
+Aohzan's personnal collection of Home-Assistant's blueprints
 
+terryb8s modified android medication reminder blueprint to stop notification being accidentally dismissed because of a tap instead of a swipe down on the notication, on tap action could be added but didn't see a need.
 
 ## Advanced medication reminder
 
